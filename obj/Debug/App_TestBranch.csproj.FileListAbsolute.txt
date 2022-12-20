@@ -7,3 +7,12 @@ C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Debug\App_TestBranch.cspr
 C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Debug\App_TestBranch.csproj.CoreCompileInputs.cache
 C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Debug\App_TestBranch.exe
 C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Debug\App_TestBranch.pdb
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\bin\Debug\App_TestBranch.exe.config
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\bin\Debug\App_TestBranch.exe
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\bin\Debug\App_TestBranch.pdb
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.csproj.AssemblyReference.cache
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.Properties.Resources.resources
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.csproj.GenerateResource.cache
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.csproj.CoreCompileInputs.cache
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.exe
+C:\Users\88696\Source\Repos\HsonAndy\TestBranch\obj\Debug\App_TestBranch.pdb
