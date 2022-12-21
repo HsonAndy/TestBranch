@@ -1,0 +1,9 @@
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\bin\Release\App_TestBranch.exe.config
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\bin\Release\App_TestBranch.exe
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\bin\Release\App_TestBranch.pdb
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.csprojAssemblyReference.cache
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.Properties.Resources.resources
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.csproj.GenerateResource.cache
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.csproj.CoreCompileInputs.cache
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.exe
+C:\Users\aaa\Desktop\App_TestBranch\App_TestBranch\obj\Release\App_TestBranch.pdb
